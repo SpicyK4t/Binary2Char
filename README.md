@@ -1,1 +1,0 @@
-# Binary2Char
